@@ -1,0 +1,6 @@
+streamlit
+groq
+streamlit-mic-recorder
+SpeechRecognition
+pydub
+ffmpeg-python
